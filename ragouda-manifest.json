@@ -1,0 +1,15 @@
+{
+  "name": "رغودة",
+  "short_name": "رغودة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./ragouda.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#7b5cff",
+  "theme_color": "#7b5cff",
+  "icons": [
+    {"src": "ragouda-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "ragouda-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
